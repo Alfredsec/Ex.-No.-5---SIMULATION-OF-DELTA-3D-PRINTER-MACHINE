@@ -1,6 +1,6 @@
 
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
-
+## DATE : 14.09.2023
 ## AIM:
 To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -37,5 +37,5 @@ To simulate the construction of delta 3D printer and to get in-depth knowledge o
 ### Register Number: 212222110002
 
 ## Result: 
-### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
 Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/README.md at main · Keerthanasampathkumar/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE 
